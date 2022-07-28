@@ -2,3 +2,6 @@ streamlit
 pandas
 streamlit_pandas_profiling
 requests
+streamlit-option-menu
+streamlit-tags
+streamlit-aggrid
